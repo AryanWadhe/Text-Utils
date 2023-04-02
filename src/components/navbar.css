@@ -1,0 +1,44 @@
+#green{
+    background-color: green;
+    /* width: 8px; */
+  /* border: 15px solid green; */
+  padding: 9px;
+  margin-right: 1rem;
+  /* margin-left: 1rem; */
+  border-radius: 100%;
+  /* color: blue; */
+    
+}
+#red{
+    background-color: #FF003F;
+    /* width: 8px; */
+  /* border: 15px solid green; */
+  padding: 9px;
+  margin-right: 5px;
+  border-radius: 100%;
+  /* color: blue; */
+    
+}
+#yellow{
+    background-color: yellow;
+    /* width: 8px; */
+  /* border: 15px solid green; */
+  padding: 9px;
+  margin-right: 5px;
+  border-radius: 100%;
+  /* color: blue; */
+}
+#redround{
+  padding: 0.1cm;
+  /* margin-right: 15px; */
+}
+#yellowround{
+  padding: 0.1cm;
+  /* margin-right: 15px; */
+  size:"10";
+}
+#greenround{
+  padding: 0.1cm;
+  margin-right: 10px;
+  size:"10";
+}
